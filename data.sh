@@ -1,3 +1,5 @@
+#!/bin/bash
+
 printf "What is you name? "
 read name
 printf "What month where you born? "
